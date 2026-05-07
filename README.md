@@ -1,6 +1,6 @@
-```yaml
+
 name: difficulting
-status: online
+languages: spanish, english, portuguese
 
 about:
   - making random stuff
@@ -10,4 +10,3 @@ about:
 links:
   <a href="https://discord.com/users/728105019748122666">discord</a>
   site: soon
-``` 
