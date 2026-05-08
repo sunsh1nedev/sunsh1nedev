@@ -9,6 +9,4 @@ about:
   - probably doing nothing right now
 
 links:
-  <a href="https://discord.com/users/728105019748122666">discord</a>
-  
   site: soon
